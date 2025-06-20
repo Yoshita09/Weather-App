@@ -8,7 +8,7 @@ A responsive and visually appealing weather forecast web app that allows users t
 
 ## 📸 Preview
 
-![Weather App Screenshot](assets/screenshot.png) <!-- Replace with an actual screenshot path -->
+<img width="1013" alt="Screenshot 2025-06-20 at 10 47 59 PM" src="https://github.com/user-attachments/assets/c1c62be1-1574-45bf-8119-283414c90ee1" />
 
 ---
 
