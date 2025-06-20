@@ -85,14 +85,17 @@ The project uses the **OpenWeatherMap API**. The API key is currently hardcoded 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yoshita09/Weather-App.git
-
+   ```
+   
 2. Navigate into the folder:
-   `
-cd Weather-App
-```
+   ```bash
+   cd Weather-App
+   ```
+   
 3. Open index.html in your browser, or deploy using GitHub Pages.
 
 ---
+
 
 
 
