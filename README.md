@@ -50,11 +50,24 @@ A responsive and visually appealing weather forecast web app that allows users t
 Weather-App/
 │
 ├── assets/
-│ └── weather/ # Weather icons
+│ ├── message/
+│ │ ├── not-found.png
+│ │ └── search-city.png
+│ │
+│ ├── weather/
+│ │ ├── atmosphere.svg
+│ │ ├── clear.svg
+│ │ ├── clouds.svg
+│ │ ├── drizzle.svg
+│ │ ├── rain.svg
+│ │ ├── snow.svg
+│ │ └── thunderstorm.svg
+│ │
+│ └── bg.jpg
 │
-├── index.html # Main HTML file
-├── style.css # Styling
-├── script.js # JavaScript logic
+├── index.html
+├── style.css
+├── script.js
 └── README.md # You're here!
 ```
 
