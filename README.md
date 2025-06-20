@@ -96,6 +96,16 @@ The project uses the **OpenWeatherMap API**. The API key is currently hardcoded 
 
 ---
 
+## 👩‍💻 Made by
+
+**Yoshita Singhal**
+
+- GitHub: [@yoshita09](https://github.com/yoshita09)
+- LinkedIn: [Yoshita Singhal](https://linkedin.com/in/yoshita09)
+
+---
+
+
 
 
 
